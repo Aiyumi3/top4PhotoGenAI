@@ -1,0 +1,14 @@
+{
+  "short_name": "ТОП 4 ОНЛАЙН ФОТО ГЕНЕРАТОРІВ ШТУЧНОГО ІНТЕЛЕКТУ",
+  "name": "ТОП 4 ОНЛАЙН ФОТО ГЕНЕРАТОРІВ ШТУЧНОГО ІНТЕЛЕКТУ
+           ВИКОРИСТАННЯ ФОТО ГЕНЕРАТОРІВ ШІ ДЛЯ СТВОРЕННЯ ФОНОВИХ ЗОБРАЖЕНЬ САЙТУ
+",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}
